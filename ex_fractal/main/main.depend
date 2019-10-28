@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1538153553 source:/home/fede/C++_Examples/Udemy_course_5/ex_fractal/main/Bitmap.cpp
+	<fstream>
+	"Bitmap.h"
+	"BitmapInfoHeader.h"
+	"BitmapFileHeader.h"
+
+1538142805 /home/fede/C++_Examples/Udemy_course_5/ex_fractal/main/Bitmap.h
+	<string>
+	<cstdint>
+	<memory>
+
+1538146621 /home/fede/C++_Examples/Udemy_course_5/ex_fractal/main/BitmapInfoHeader.h
+	<cstdint>
+
+1538140210 /home/fede/C++_Examples/Udemy_course_5/ex_fractal/main/BitmapFileHeader.h
+	<cstdint>
+
+1538219431 source:/home/fede/C++_Examples/Udemy_course_5/ex_fractal/main/FractalCreator.cpp
+	"FractalCreator.h"
+
+1538219541 /home/fede/C++_Examples/Udemy_course_5/ex_fractal/main/FractalCreator.h
+	<cstdint>
+	<memory>
+	<math.h>
+	<string>
+	"Zoom.h"
+	"Mandelbrot.h"
+	"Bitmap.h"
+	"ZoomList.h"
+
+1538210900 /home/fede/C++_Examples/Udemy_course_5/ex_fractal/main/Zoom.h
+
+1538217582 /home/fede/C++_Examples/Udemy_course_5/ex_fractal/main/Mandelbrot.h
+
+1538213759 /home/fede/C++_Examples/Udemy_course_5/ex_fractal/main/ZoomList.h
+	<vector>
+	<utility>
+	"Zoom.h"
+
+1538219589 source:/home/fede/C++_Examples/Udemy_course_5/ex_fractal/main/main.cpp
+	<iostream>
+	"FractalCreator.h"
+
+1539713505 source:/home/fede/C++_Examples/Udemy_course_5/ex_fractal/main/Mandelbrot.cpp
+	"Mandelbrot.h"
+	<complex>
+
+1538214092 source:/home/fede/C++_Examples/Udemy_course_5/ex_fractal/main/ZoomList.cpp
+	"ZoomList.h"
+	<vector>
+	<iostream>
+
