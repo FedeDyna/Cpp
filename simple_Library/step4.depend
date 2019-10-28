@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1537712250 source:/home/fede/C++_Examples/Udemy_course_1/step 4/library.cpp
+	"library.h"
+
+1537712321 /home/fede/C++_Examples/Udemy_course_1/step 4/library.h
+	"book.h"
+
+1537711782 /home/fede/C++_Examples/Udemy_course_1/step 4/book.h
+	<iostream>
+
+1537712672 source:/home/fede/C++_Examples/Udemy_course_1/step 4/main.cpp
+	<iostream>
+	"library.h"
+	"book.h"
+	"user.h"
+
+1537712738 source:/home/fede/C++_Examples/Udemy_course_1/step 4/book.cpp
+	"book.h"
+
+1537714478 /home/fede/C++_Examples/Udemy_course_1/step 4/user.h
+	"book.h"
+	"library.h"
+
+1537712738 source:/home/fede/AVID/C++/programs/simple_Library/book.cpp
+	"book.h"
+
+1537711782 /home/fede/AVID/C++/programs/simple_Library/book.h
+	<iostream>
+
+1537712250 source:/home/fede/AVID/C++/programs/simple_Library/library.cpp
+	"library.h"
+
+1537712321 /home/fede/AVID/C++/programs/simple_Library/library.h
+	"book.h"
+
+1537712672 source:/home/fede/AVID/C++/programs/simple_Library/main.cpp
+	<iostream>
+	"library.h"
+	"book.h"
+	"user.h"
+
+1537714478 /home/fede/AVID/C++/programs/simple_Library/user.h
+	"book.h"
+	"library.h"
+
+1537714529 source:/home/fede/AVID/C++/programs/simple_Library/user.cpp
+	<iostream>
+	"book.h"
+	"library.h"
+	"user.h"
+

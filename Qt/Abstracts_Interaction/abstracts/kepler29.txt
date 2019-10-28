@@ -1,0 +1,11 @@
+We study the Transit Timing Variation (TTV) measurements of a planetary system
+of two super-Earths detected as Kepler-29, in order to constrain the planets'
+masses and orbital parameters of the this system. A dynamical analysis of the
+best-fitting configurations reveal that the system may be locked in the 9:7~mean
+motion resonance. However, a variety of orbital architectures regarding
+eccentricities and the relative orientation of orbits is permitted by the
+observations as well as by stability constraints. We attempt to find
+configurations prefered by the planet formation scenarios as an additional,
+physical constraint. We show that configurations with low eccentricities and
+anti-aligned apsidal lines of the orbits are a natural and most likely outcome
+of the convergent migration.

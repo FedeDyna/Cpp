@@ -1,0 +1,16 @@
+We investigate the dynamical stability of the Kepler-60 planetary system with
+three super-Earths. We determine their orbital elements and masses by
+Transit Timing Variation (TTV) data spanning quarters \corr{Q1-Q16} of the
+\kepler{} mission. The system is dynamically active but the TTV data constrain
+masses to $\sim 4~\mE$ and orbits in safely wide stable zones. The observations
+prefer two types of solutions. The true three-body Laplace MMR exhibits the
+critical angle librating around $\simeq 45^{\circ}$ and aligned apsides of the
+inner and outer pair of planets. In the Laplace MMR formed through a chain of
+two-planet 5:4 and 4:3 MMRs, all critical angles librate with amplitudes as
+small as $\sim 10^{\circ}$ and apsidal lines in planet's pairs are anti-aligned.
+The system is simultaneously locked in a three-body MMR with librations
+amplitude $\simeq 10^{\deg}$. The true Laplace MMR can evolve towards a chain of
+two-body MMRs in the presence of planetary migration. Therefore \corr{the
+three-body MMR} formed in this way seems to be more likely state of the system.
+However, the true three-body MMR cannot be disregarded {\em a priori} and it
+remains a puzzling configuration that may challenge the planet formation theory.

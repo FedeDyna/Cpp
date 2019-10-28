@@ -1,0 +1,22 @@
+We describe the Reversibility Error Method (REM) and its applications to the
+planetary dynamics. REM is based on \textit{the time-reversibility analysis} of
+the phase-space trajectories of conservative Hamiltonian systems. The round-off
+errors break the time reversibility and the displacement from the initial
+condition, occurring when we integrate it forward and backward for the same time
+interval, is related to the dynamical character of the trajectory. If the motion
+is chaotic, in the sense of non-zero maximal Characteristic Lyapunov Exponent
+(mLCE), then REM increases exponentially with time, as $\exp \lambda t$, while
+when the motion is regular (quasi-periodic) then REM increases as a power
+\corr{law} in time, as $t^\alpha$, where $\alpha$ and $\lambda$ are real
+coefficients. We compare the REM with a variant of mLCE, the Mean Exponential
+Growth factor of Nearby Orbits (MEGNO). The test set includes the restricted
+three body problem and five resonant planetary systems: HD~37124, Kepler-60,
+Kepler-36, Kepler-29 and Kepler-26. We found a very good agreement between
+the outcomes of these algorithms. Moreover, numerical implementation of REM is
+astonishing simple, and is based on solid theoretical background. The REM
+requires only a symplectic and time-reversible (symmetric) integrator of the
+equations of motion. This method is also CPU efficient. It may be particularly
+useful for the dynamical analysis of multiple planetary systems in the 
+\kepler{} sample, characterized by low-eccentricity orbits and relatively weak
+mutual interactions. As an interesting side-result, we found a possible {\em
+stable chaos} occurrence in the Kepler-29 planetary system.
