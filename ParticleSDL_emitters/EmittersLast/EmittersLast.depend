@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1572167991 source:/home/fede/Documents/ParticleSDL_emitters/EmittersLast/main.cpp
+	<iostream>
+
+1572175790 source:/home/fede/Documents/ParticleSDL_emitters/Timer.cpp
+	"Timer.h"
+
+1572168459 /home/fede/Documents/ParticleSDL_emitters/Timer.h
+	"SDL2/SDL.h"
+
+1572216951 source:/home/fede/Documents/ParticleSDL_emitters/Emitter.cpp
+	"Emitter.h"
+	<math.h>
+
+1572216867 /home/fede/Documents/ParticleSDL_emitters/Emitter.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	"Particle.h"
+	<vector>
+	<algorithm>
+
+1572217410 /home/fede/Documents/ParticleSDL_emitters/Particle.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	<stdlib.h>
+	<iostream>
+
+1572207958 source:/home/fede/Documents/ParticleSDL_emitters/Game.cpp
+	"Game.h"
+	<iostream>
+	<time.h>
+
+1572191231 /home/fede/Documents/ParticleSDL_emitters/Game.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	"Emitter.h"
+	<iostream>
+
+1572215494 source:/home/fede/Documents/ParticleSDL_emitters/main.cpp
+	"SDL2/SDL.h"
+	"Screen.h"
+
+1572217669 source:/home/fede/Documents/ParticleSDL_emitters/Particle.cpp
+	"Particle.h"
+
+1572185001 /home/fede/Documents/ParticleSDL_emitters/GameUtils.h
+
+1572217968 /home/fede/Documents/ParticleSDL_emitters/Screen.h
+	"SDL2/SDL.h"
+	"SDL2/SDL_image.h"
+	"Emitter.h"
+	<iostream>
+
+1572216999 source:/home/fede/Documents/ParticleSDL_emitters/Screen.cpp
+	"Screen.h"
+	<iostream>
+	<time.h>
+
